@@ -1,0 +1,1 @@
+## A web scraper built with Node.js using Puppeteer to get data of [Braé Sul](https://www.braesul.com.br/).
